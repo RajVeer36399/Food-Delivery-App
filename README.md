@@ -9,11 +9,16 @@ Currently, two official plugins are available:
 
 ◦ Developed a dynamic food delivery web application using React.js with Vite, featuring modular
  components such as a dynamic header, food menu, and shopping cart.
- ◦ Implemented real-time cart management with seamless add-to-cart, remove, and update quantity
+ 
+◦ Implemented real-time cart management with seamless add-to-cart, remove, and update quantity
  functionalities.
- ◦ Designed a fully responsive user interface, ensuring cross-device compatibility using CSS for an
+ 
+◦ Designed a fully responsive user interface, ensuring cross-device compatibility using CSS for an
  enhanced user experience.
- ◦ Used React Context API for efficient state management, enabling smooth and optimized cart opera
+ 
+◦ Used React Context API for efficient state management, enabling smooth and optimized cart opera
 tions.
- ◦ Deployed the project on Netlify and GitHub, showcasing real-time updates and a live demonstration.
- ◦ Technologies used: HTML5, CSS3, JavaScript, React.js, Vite.
+
+◦ Deployed the project on Netlify and GitHub, showcasing real-time updates and a live demonstration.
+
+◦ Technologies used: HTML5, CSS3, JavaScript, React.js, Vite.
