@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './LogInPopup.css'
+import './LogInPopUp.css'
 import { assets } from '../../assets/assets'
 
 const LogInPopup = ({setShowLogin}) => {
